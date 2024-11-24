@@ -1,5 +1,5 @@
 # blooket-cheats
-blooket  cheats, repost of 05 konz. Global cheats and all game cheats, get every blook
+blooket  cheats, a bit of 05 Konz cheats, some parts are glitchy because of missing code but the main cheats work. Has Global cheats and all game cheats, get every blook
 
 Instructions:
 go to "cheats file and click the square box then
