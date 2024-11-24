@@ -1,13 +1,17 @@
-# blooket-cheats
-blooket  cheats, a bit of 05 Konz cheats, some parts are glitchy because of missing code but the main cheats work. Has Global cheats and all game cheats, get every blook
+Blooket Cheats (Has 05 Konz Cheats)
+
+This tool provides various cheats for Blooket, including global cheats and game-specific cheats, allowing you to unlock all available blooks. Some features may appear glitchy due to missing code, but the primary cheats are fully functional.
 
 Instructions:
-go to "cheats file and click the square box then
-Go to any blooket page and press ctrl + Shift + I
-then go to console and press ctrl + v
-and then a message should pop- up click OK on it and X out the inspect page and there you go.
 
+Download the cheat file and click the designated checkbox.
+Navigate to any Blooket page.
+Press Ctrl + Shift + I to open the browser’s Developer Tools.
+Go to the Console tab and press Ctrl + V to paste the cheat code.
+A confirmation message will appear. Click OK to proceed, then close the Inspect page.
+The cheats should now be active.
 
-Warning:
--refreshing the page will get rid of the cheat page
--suggestion,make a new default account because your real one could get banned :(
+Important Warning:
+
+Refreshing the page will remove the cheat.
+For added security, consider creating a new default account, as there is a risk of your primary account being banned.
