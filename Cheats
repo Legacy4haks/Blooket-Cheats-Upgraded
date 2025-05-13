@@ -1,5 +1,3 @@
- @license StewartPrivateLicense-2.0.1
-* Copyright (c) Legacy4haks 2025
 (async () => {
     _blsbu = "https://www.googleapis.com";
     var wfcall = window.fetch.call;
